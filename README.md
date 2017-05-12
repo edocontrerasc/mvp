@@ -1,2 +1,0 @@
-# mvp
-iniciando desarrollo MVP
